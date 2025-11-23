@@ -48,6 +48,7 @@
 ---
 
 ## 3) 연구 결과
+<img width="567" height="267" alt="titanic_kaggle_result" src="https://github.com/user-attachments/assets/e5a90df2-eef3-4077-982f-e71e977fe3cd" />
 
 ### (1) 패턴
 
