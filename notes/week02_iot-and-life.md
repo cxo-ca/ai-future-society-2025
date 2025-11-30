@@ -1,7 +1,7 @@
 # [02주차] 사물인터넷 기술과 우리 생활의 변화
 
 ## 1. 오늘의 키워드
-- 사물인터넷(IoT, Internet of Things)
+- **사물인터넷(IoT, Internet of Things)**
 - 스마트 홈 / 스마트 헬스케어 / 스마트 시티(팜) / 스마트 자동차
 - 만물인터넷(IoE, Internet of Everything)
 - 보안·프라이버시 이슈
