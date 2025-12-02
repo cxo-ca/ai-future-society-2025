@@ -2,7 +2,6 @@
 
 ## 1. 오늘의 키워드
 - 빅데이터(Big Data)
-- 빅데이터를 이용한 문제 해결 과정
 - 트렌드 분석(Trend Analysis)
 - 사회연결망 분석(Social Network Analysis)
 - 데이터 예측 분석(Predictive Analytics)
